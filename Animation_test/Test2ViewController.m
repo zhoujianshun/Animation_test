@@ -67,11 +67,13 @@
 -(void)masterTest{
 
 }
--(void)masterTest2{
+
+
+-(void)masterTest3{
     
 }
 
--(void)masterTest3{
+-(void)masterTest2{
     
 }
 
