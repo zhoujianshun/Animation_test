@@ -142,13 +142,13 @@
 
 
 -(void)myTest2{
-    
+    NSLog(@"");
 }
 
 
 
 -(void)myTest{
-    
+    NSLog(@"1");
 }
 
 
