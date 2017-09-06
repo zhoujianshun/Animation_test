@@ -102,8 +102,6 @@
 // 关键帧动画，通过values设置关键帧动画
 -(void)startAnimation{
 
-  
-    
     [self.image.layer addAnimation:[self pathAnimation] forKey:@"positionAnim"];
 
 }
