@@ -67,5 +67,8 @@
 -(void)masterTest{
 
 }
+-(void)masterTest2{
+    
+}
 
 @end
