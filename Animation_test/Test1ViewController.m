@@ -144,4 +144,8 @@
 -(void)myTest{
 
 }
+-(void)myTest2{
+    
+}
+
 @end
