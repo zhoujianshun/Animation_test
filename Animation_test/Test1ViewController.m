@@ -131,13 +131,14 @@
 
 }
 
+
 // 翻转动画
 -(void)startFlipAnimation{
-
+    
     //[rotation setValue:[NSNumber numberWithFloat:M_2_PI] forKey:@"KCBasicAnimationProperty_ToValue"];
     [self.image.layer addAnimation:[self rotationAnimation] forKey:@"1213"];
     
-
+    
 }
 
 
