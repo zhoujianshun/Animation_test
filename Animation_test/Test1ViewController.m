@@ -147,11 +147,14 @@
     
 }
 
--(void)myTest3{
+
+
+-(void)myTest{
     
 }
 
--(void)myTest{
+
+-(void)myTest3{
     
 }
 
