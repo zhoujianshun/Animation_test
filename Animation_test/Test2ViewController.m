@@ -64,6 +64,10 @@
     self.myLayer.cornerRadius=width/2;
 }
 
+-(void)masterTest2{
+    
+}
+
 -(void)masterTest{
 
 }
@@ -73,8 +77,6 @@
     
 }
 
--(void)masterTest2{
-    
-}
+
 
 @end
